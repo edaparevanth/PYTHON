@@ -1,0 +1,6 @@
+x=int(input("Enter the amount :"))
+y=float(input("Enter the intrest rate :"))
+z=int(input("Enter the total no days :"))
+print("Simple intrest is:",(x*y*z)/100)
+print("Compund intrest is:",(x*((1+y)/100)**z))
+print("\n")
