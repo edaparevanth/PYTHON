@@ -1,0 +1,24 @@
+x=int(input("Enter the number :"))
+y=int(input("Enter the number :"))
+print("add number is:",x+y)
+print("\n")
+
+x=int(input("Enter the number :"))
+y=int(input("Enter the number :"))
+print("sub number is:",x-y)
+print("\n")
+
+x=int(input("Enter the number :"))
+y=int(input("Enter the number :"))
+print("div number is:",x/y)
+print("\n")
+
+x=int(input("Enter the number :"))
+y=int(input("Enter the number :"))
+print("mul number is:",x*y)
+print("\n")
+
+x=int(input("Enter the number :"))
+y=int(input("Enter the number :"))
+print("mod number is:",x%y)
+print("\n")
