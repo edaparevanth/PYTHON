@@ -1,0 +1,3 @@
+s=30
+print("Area of square :",s**2)
+print("Perimiter of square :",4*s)
