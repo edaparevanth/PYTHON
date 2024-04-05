@@ -1,0 +1,5 @@
+import math
+radi=float(input("Enter  the radius of circle:"))
+print("Area of circle is :",math.pi*radi**2)
+print("Circumferance is  :",4*math.pi*radi)
+print("\n")
