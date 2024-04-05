@@ -1,0 +1,10 @@
+x=int(input("Enter the number :"))
+print("Entered number is:",x)
+x=float(input("Enter the number :"))
+print("Entered number is:",x)
+x=input("Enter your name :")
+print("Entered name is:",x)
+x=10
+print("Entered number is:",x)
+x=20.9
+print("Entered number is:",x)
