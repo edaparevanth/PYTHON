@@ -1,0 +1,13 @@
+n=int(input("Enter the number:"))
+rem=0
+rev=0
+temp=0
+temp=n
+while(temp>0):
+    rem=temp%10
+    rev+=rem*rem*rem
+    temp//=10
+if(rev==n):
+    print("armstrong .")
+else:
+    print("not armstrong .")
