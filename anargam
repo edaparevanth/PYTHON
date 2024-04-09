@@ -1,0 +1,10 @@
+def check(s1,s2):
+    print(sorted(s1))
+    print(sorted(s2))
+    if (sorted(s1)==sorted(s2)):
+        print("Anagram")
+    else:
+        print("Not anagram")
+s1="teacher"
+s2="heacter"
+check(s1,s2)
