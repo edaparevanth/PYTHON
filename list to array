@@ -1,0 +1,8 @@
+import array
+l=[1,2,3,4]
+sum=0
+a=array.array("i",[])
+a.fromlist(l)
+for i in a:
+    sum=sum+i
+print(sum)
